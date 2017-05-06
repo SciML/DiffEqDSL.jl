@@ -1,3 +1,5 @@
+__precompile__()
+
 module DiffEqDSL
 
 # package code goes here
